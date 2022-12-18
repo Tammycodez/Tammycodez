@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tamara Papanda @Tammycodez on github
 - 👀 I’m interested in becoming a Full stack software developer in 2023 
 - 🌱 I’m currently learning Software engineering @ALX 
-- 💞️ I’m looking to collaborate on building real time projects that actively the everyday life of its users 
+- 💞️ I’m looking to collaborate on building real time projects that actively improve  the everyday life of its users 
 - 📫 How to reach me on preye31@gmail.com
 
 <!---
